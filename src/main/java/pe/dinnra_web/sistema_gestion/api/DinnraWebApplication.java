@@ -1,4 +1,4 @@
-package com.example.DinnraWeb;
+package pe.dinnra_web.sistema_gestion.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
